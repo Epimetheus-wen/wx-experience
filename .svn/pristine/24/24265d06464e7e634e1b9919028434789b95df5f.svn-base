@@ -1,0 +1,1 @@
+<view class="dot-main"><block wx:for="{{list}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view class="{{['dot-item',current==index?'active':'']}}"></view></block></view>

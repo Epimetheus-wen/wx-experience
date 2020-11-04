@@ -1,0 +1,27 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/product/privacy",
+    "pages/product/message",
+    "pages/product/voice",
+    "pages/product/vacantNumber",
+    "pages/product/twice",
+    "pages/product/networkTime",
+    "pages/product/realTime",
+    "pages/product/idCard",
+    "pages/product/phoneAuth",
+    "pages/product/bankCardThree",
+    "pages/product/bankCardFour",
+    "pages/outside/outside"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "易通信体验中心",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#FFFFFF",
+    "navigationStyle": "custom"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

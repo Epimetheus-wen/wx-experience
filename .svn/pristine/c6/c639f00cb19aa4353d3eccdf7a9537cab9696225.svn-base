@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "产品体验——身份证实名认证",
+  "usingComponents": {
+    "header": "/components/header",
+    "uni-popup": "/node-modules/@dcloudio/uni-ui/lib/uni-popup/uni-popup",
+    "s-identify": "/components/identify",
+    "suspend-button": "/components/suspendButton"
+  }
+}

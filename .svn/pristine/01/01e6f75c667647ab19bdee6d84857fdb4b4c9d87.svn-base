@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "易通信体验中心",
+  "usingComponents": {
+    "swiper-dot": "/components/seiperDot"
+  }
+}

@@ -1,0 +1,128 @@
+{
+    "pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+        {
+            "path": "pages/index/index",
+            "style": {
+                "navigationBarTitleText": "易通信体验中心",
+                "app-plus": {
+                    "titleNView": false
+                }
+            }
+        },
+        {
+            "path": "pages/product/privacy",
+            "style": {
+                "navigationBarTitleText": "产品体验——隐私号",
+                "app-plus": {
+                    "titleNView": false
+                }
+            }
+        },
+        {
+            "path": "pages/product/message",
+            "style": {
+                "navigationBarTitleText": "产品体验——短信服务",
+                "app-plus": {
+                    "titleNView": false
+                }
+            }
+        },
+        {
+            "path": "pages/product/voice",
+            "style": {
+                "navigationBarTitleText": "产品体验——语音通知",
+                "app-plus": {
+                    "titleNView": false
+                }
+            }
+        },
+        {
+            "path": "pages/product/vacantNumber",
+            "style": {
+                "navigationBarTitleText": "产品体验——空号检测",
+                "app-plus": {
+                    "titleNView": false
+                }
+            }
+        },
+        {
+            "path": "pages/product/twice",
+            "style": {
+                "navigationBarTitleText": "产品体验——二次放号校验",
+                "app-plus": {
+                    "titleNView": false
+                }
+            }
+        },
+        {
+            "path": "pages/product/networkTime",
+            "style": {
+                "navigationBarTitleText": "产品体验——在网时长查询",
+                "app-plus": {
+                    "titleNView": false
+                }
+            }
+        },
+        {
+            "path": "pages/product/realTime",
+            "style": {
+                "navigationBarTitleText": "产品体验——号码实时状态检测",
+                "app-plus": {
+                    "titleNView": false
+                }
+            }
+        },
+        {
+            "path": "pages/product/idCard",
+            "style": {
+                "navigationBarTitleText": "产品体验——身份证实名认证",
+                "app-plus": {
+                    "titleNView": false
+                }
+            }
+        },
+        {
+            "path": "pages/product/phoneAuth",
+            "style": {
+                "navigationBarTitleText": "产品体验——手机实名认证",
+                "app-plus": {
+                    "titleNView": false
+                }
+            }
+        },
+        {
+            "path": "pages/product/bankCardThree",
+            "style": {
+                "navigationBarTitleText": "产品体验——银行卡三要素核验",
+                "app-plus": {
+                    "titleNView": false
+                }
+            }
+        },
+        {
+            "path": "pages/product/bankCardFour",
+            "style": {
+                "navigationBarTitleText": "产品体验——银行卡四要素核验",
+                "app-plus": {
+                    "titleNView": false
+                }
+            }
+        },
+        {
+            "path": "pages/outside/outside",
+            "style": {
+                "navigationBarTitleText": "东信在线",
+                "app-plus": {
+                    "titleNView": false
+                }
+            }
+        }
+    ],
+    "globalStyle": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "易通信体验中心",
+        "navigationBarBackgroundColor": "#FFFFFF",
+        "backgroundColor": "#FFFFFF",
+        "navigationStyle": "custom"
+    }
+}
